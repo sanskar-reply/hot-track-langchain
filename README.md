@@ -1,6 +1,6 @@
 # hot-track-langchain
 
-# Flask Modular Agent Application
+# Why this repo?
 This repository is dedicated to the demo used for the upcoming webinar on Langchain for the large language model hot-track  
 
 ## Technical Stack
