@@ -8,9 +8,6 @@ This repository is dedicated to the demo used for the upcoming webinar on Langch
 - Langchain
 - OpenAI
 - 
-## Features
-
-## Prerequisites
 
 ## Installation & Set Up
 1. Clone the project repository from GitHub.
