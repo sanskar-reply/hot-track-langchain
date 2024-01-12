@@ -4,16 +4,13 @@
 This repository is dedicated to the demo used for the upcoming webinar on Langchain for the large language model hot-track  
 
 ## Technical Stack
-- Python 3.8.5
-- Flask 3.0.0
-
-## Features
-
-## Prerequisites
-You'll need to have the following installed to run and test the application:
 - Python 3.8.5 or later
 - Langchain
 - OpenAI
+- 
+## Features
+
+## Prerequisites
 
 ## Installation & Set Up
 1. Clone the project repository from GitHub.
