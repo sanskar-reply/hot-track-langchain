@@ -31,8 +31,8 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
 
-Useful links
-https://smith.langchain.com/hub?ref=blog.langchain.dev - langchain hub
-https://blog.langchain.dev/ langchain blog
-langsmith in action - https://www.loom.com/share/b8e1027ffe174830b119121de1b020f1?sid=e18fb792-eb76-48e1-a01f-cb05efd64d9b
+## Useful links  
+https://smith.langchain.com/hub?ref=blog.langchain.dev - langchain hub  
+https://blog.langchain.dev/ langchain blog  
+langsmith in action - https://www.loom.com/share/b8e1027ffe174830b119121de1b020f1?sid=e18fb792-eb76-48e1-a01f-cb05efd64d9b  
 
