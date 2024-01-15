@@ -25,6 +25,7 @@ This repository contains example notebooks for the upcoming hot-track webinar on
 
 ### LangChain  
 [Documentation](https://python.langchain.com/docs/get_started/introduction)  
+[Observability Walkthrough](https://www.youtube.com/watch?v=dlJQ-YiXgCs)  
 [Langchain hub](https://smith.langchain.com/hub?ref=blog.langchain.dev)  
 [Langchain blog](https://blog.langchain.dev/)  
 [Langsmith in action](https://www.loom.com/share/b8e1027ffe174830b119121de1b020f1?sid=e18fb792-eb76-48e1-a01f-cb05efd64d9b)  
